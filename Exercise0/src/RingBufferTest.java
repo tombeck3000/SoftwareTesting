@@ -7,7 +7,7 @@
 import org.junit.Test;
 import junit.framework.TestCase;
 
-//testline delete
+//testline delete deleted
 
 public class RingBufferTest extends TestCase {
 	
